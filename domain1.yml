@@ -1,0 +1,63 @@
+intents:
+- apperciation
+- laliga_clubs_history
+- greetings
+- laliga_clubsstadiuminfo_history
+- laliga_playerstoclubinfo_history
+- laliga_rewardstoplayers
+- laliga_match_result
+- providename
+- affirm
+- byebye
+
+entities:
+- laligaclubs
+- players
+- soccerposition
+- username
+
+slots:
+  username:
+    type: text
+  players:
+    type: text
+  soccerposition:
+    type: text
+  laligaclubs:     
+      type: text
+
+actions:
+- action_stadiuminfo
+- utter_name
+- utter_greet
+- utter_byebye
+- utter_apperciation
+- action_clubhistory
+- action_gameresult
+- action_players_prizes
+- action_playerstoclubinfo
+- utter_affirm_confirm
+- action_default_fallback
+
+
+templates:
+  utter_default:
+  - text: "Can you please Rephrase what you said! Sorry i am sometimes stupid"
+  
+  utter_apperciation:
+  - text: "you welcome was great talking to you too" 
+  
+  action_clubhistory:
+     image: "https://i.imgur.com/nGF1K8f.jpg"
+     
+  utter_byebye:
+  - text: "thank you buddy i want to sleep now.. Bye"  
+  
+  utter_name:
+  - text: "hey there! tell me your name."
+
+  utter_greet:
+  - text: "nice to you meet you {username}. how can i help?"
+
+  utter_affirm_confirm:
+  - text: "hope i helped you! any thing else?"
