@@ -1,0 +1,171 @@
+%[Laliga_clubs_history]('training': '1100', 'testing': '200')
+    tell me something about the ~[history] of @[LaligaClubs] ?
+    say some ~[information] about @[LaligaClubs]'s ~[history]
+    what do know about ~[history] ?
+    just tell some ~[information] about @[LaligaClubs] ?
+    how did @[LaligaClubs] started ?
+    any ~[information] regarding @[LaligaClubs]
+    is it true @[LaligaClubs] began as small club ?
+    I do not know any thing about @[LaligaClubs] ~[history?] can you ~[please?] ~[talk] me  ?
+    ~[please?] Can you tell me the ~[history] of @[LaligaClubs] ?
+    do you know anything about @[LaligaClubs]'s ~[history] ?
+    any ~[information] about @[LaligaClubs]'s ~[history]
+    ~[talk] to me through the ~[history] of @[LaligaClubs]
+    state the short ~[history] of @[LaligaClubs]
+    ~[please?] ~[talk] me more about @[LaligaClubs]'s ~[history]
+    ~[please?] ~[talk] me about @[LaligaClubs]'s ~[history]
+    how  was  @[LaligaClubs]'s ~[history] ?
+    ~[please?] tell me about the ~[history] of the @[LaligaClubs]
+    What is @[LaligaClubs] ~[history?] ?
+    What is @[LaligaClubs] club ? 
+    What is @[LaligaClubs] team ?
+    Can you tell me the ~[history] of @[LaligaClubs] ? 
+    walk with me through @[LaligaClubs] ~[history?]
+    what kind of ~[information] i should know about @[LaligaClubs] ~[history?]
+    how did @[LaligaClubs] begin as a club
+    find me ~[information] about @[LaligaClubs] ~[history?]
+    ~[please?] ~[talk] about what kind of ~[information] you have for @[LaligaClubs] ~[history?]
+    do you know any ~[information], can you ~[please] ~[talk]  to me ?
+    i want to know more ~[information?] about @[LaligaClubs] ~[history?] ?
+    @[LaligaClubs] ~[history?] ~[information?]
+    just ~[talk?] with me more about @[LaligaClubs] ~[history?]
+    say something about @[LaligaClubs]
+    how about @[LaligaClubs] ~[history?]
+
+~[please]
+    please
+    execuse me
+    if is it possible    
+~[talk]
+    discuss
+    talk
+    speak
+~[information]
+    knowledge
+    data
+    info
+    facts
+    news
+~[history]
+    foundation
+    history
+    old days
+    good old days
+    past
+    ancient times   
+@[LaligaClubs]
+    Atletico de Bilbao
+    Las Palmas 
+    Real Madrid
+    Celta de Vigo
+    Elche
+    Espanol
+    Sabadell
+    Zaragoza
+    Valencia
+    Atletico de Madrid
+    Barcelona
+    Sporting de Gijon
+    Granada
+    CD Malaga
+    Real Sociedad
+    Sevilla
+    Cadiz
+    Deportivo
+    Moscardo
+    Calvo Sotelo
+    Ontinyent
+    Logrones
+    Castellon
+    Langreo
+    Sant Andreu
+    Hercules
+    Pontevedra
+    Burgos
+    Mallorca
+    Cordoba
+    Oviedo
+    Santander
+    Betis
+    Villarreal
+    Rayo Vallecano
+    Racing de Ferrol
+    Cultural Leonesa
+    Valladolid
+    Xerez
+    Mestalla
+    Tenerife
+    Osasuna
+    Barakaldo
+    Gimnastic de Tarragona
+    Murcia
+    Linares CF
+    Levante
+    Salamanca
+    Ourense
+    Recreativo de Huelva
+    Alaves
+    Barcelona Atletic
+    Terrassa
+    Ensidesa
+    Jaen
+    Getafe Deportivo
+    AD Almeria
+    Castilla
+    Algeciras
+    Palencia CF
+    AD Ceuta
+    Atletico Madrileno
+    Cartagena
+    Bilbao Athletic
+    Lorca
+    Albacete
+    Sestao
+    Deportivo Aragon
+    Figueres
+    Lleida
+    Real Burgos
+    Eibar
+    Alzira
+    Mollerussa
+    Palamos
+    Orihuela
+    Aviles
+    Compostela
+    Merida
+    Atletico Marbella
+    Badajoz
+    Lugo
+    Leganes
+    Toledo
+    Getafe
+    Extremadura
+    Almeria
+    Ecija
+    Numancia
+    Malaga
+    Mallorca B
+    Universidad de Las Palmas
+    Poli Ejido
+    Burgos CF
+    Ciudad de Murcia
+    Malaga B
+    Lorca Deportiva
+    Vecindario
+    Ponferradina
+    Sevilla Atletico
+    Granada 74
+    Alicante
+    Huesca
+    Girona
+    Villarreal B
+    Real Union
+    FC Cartagena
+    Alcorcon
+    Guadalajara
+    Alcoyano
+    Mirandes
+    Llagostera
+    Reus
+    UCAM Murcia
+    Lorca FC
