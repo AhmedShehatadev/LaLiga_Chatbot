@@ -1,0 +1,72 @@
+%YAML 1.1
+---
+actions:
+- action_stadiuminfo
+- utter_name
+- utter_greet
+- utter_byebye
+- utter_apperciation
+- action_clubhistory
+- action_gameresult
+- action_players_prizes
+- action_playerstoclubinfo
+- utter_affirm_confirm
+config:
+  store_entities_as_slots: true
+entities:
+- laligaclubs
+- players
+- soccerposition
+- username
+forms: []
+intents:
+- apperciation:
+    use_entities: true
+- laliga_clubs_history:
+    use_entities: true
+- greetings:
+    use_entities: true
+- laliga_clubsstadiuminfo_history:
+    use_entities: true
+- laliga_playerstoclubinfo_history:
+    use_entities: true
+- laliga_rewardstoplayers:
+    use_entities: true
+- laliga_match_result:
+    use_entities: true
+- providename:
+    use_entities: true
+- affirm:
+    use_entities: true
+- byebye:
+    use_entities: true
+slots:
+  laligaclubs:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  players:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  soccerposition:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  username:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+templates:
+  action_clubhistory:
+  - text: image
+  utter_affirm_confirm:
+  - text: hope i helped you! any thing else?
+  utter_apperciation:
+  - text: you welcome was great talking to you too
+  utter_byebye:
+  - text: thank you buddy i want to sleep now.. Bye
+  utter_greet:
+  - text: nice to you meet you {username}. how can i help?
+  utter_name:
+  - text: hey there! tell me your name.
