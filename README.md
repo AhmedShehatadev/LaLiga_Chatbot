@@ -14,7 +14,11 @@ The Current version of this Chatbot lets you build a simple conversational assis
   Please Have Look at those two sample conversation :
 </p>
 <p align="left">
-  <img src="./rasa-stack-mockup.gif">
+  <img src="https://github.com/AhmedShehatadev/LaLiga_Chatbot/blob/master/conv1.png">
+</p>
+
+<p align="left">
+  <img src="https://github.com/AhmedShehatadev/LaLiga_Chatbot/blob/master/facebookconv.png">
 </p>
 
 
