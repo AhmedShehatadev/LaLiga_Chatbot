@@ -101,15 +101,18 @@ This will train the Rasa NLU model and store it inside the `/models/current/nlu`
 ```make train-core```  
 This will train the Rasa Core model and store it inside the `/models/current/dialogue` folder of your project directory.
 
-3. Start the server for the custom action by running:  
+3. Start the server for the custom action by running:   
 ```make action-server```  
 This will start the server for emulating the custom action.
 
-4. Test the assistant by running:  
+4. Test the assistant by running:  (If you want to use pretrained models: 1] you will find both for nlu and core under this directory  LaLiga_Chatbot/rasa_core/pre_trained_model/  2] Please change the paths of rasa_core.run forboth model to point to the pretrained models )
 ```make cmdline```  
 This will load the assistant in your terminal for you to chat.
 
 ## For Facebook integration you : Please contact me as i have verfication and page token:
 
-However for setup main issue faced was that i run server on local maching and facebook does not provide connecttion to unspecfied domain or using http instead of https
+However for setup main issue faced was that i run server on local maching and facebook does not provide connecttion to unspecfied domain or using http instead of https for more instraction https://rasa.com/docs/core/connectors/#facebook-connector
+
+## for fine tuning the model : 
+https://rasa.com/docs/core/docker/
 
