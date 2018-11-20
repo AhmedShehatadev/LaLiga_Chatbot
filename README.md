@@ -92,7 +92,7 @@ from bs4 import BeautifulSoup
 
 - **endpoints.yml** file contains the webhook configuration for custom action.
 
-## How to use this starter-pack?
+## How to use this La-Liga bot?  --Please use be patient and install whatever packages your environemts ask for as currentlt i update the requirement package 
 1. You can train the Rasa NLU model by running:  
 ```make train-nlu```  
 This will train the Rasa NLU model and store it inside the `/models/current/nlu` folder of your project directory.
