@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Claire\\AppData\\Local\\conda\\conda\\envs\\myenv\\rasa_nlu\\Laligamodel\\Laligamodel\\model_20181119-092511\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Claire\\AppData\\Local\\conda\\conda\\envs\\myenv\\rasa_nlu\\Laligamodel\\Laligamodel\\model_20181119-092511\\intent_classifier_tensorflow_embedding.ckpt"
