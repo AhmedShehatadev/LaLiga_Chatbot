@@ -28,6 +28,14 @@ If you haven’t installed Rasa NLU and Rasa Core yet,
 ```
 pip install -r requirements.txt
 `''
+##Starting the online training session:
+The process of running the online session is very similar to training the Rasa Core model:
+
+Make sure the custom actions server is running:
+python -m rasa_core_sdk.endpoint --actions custom_action
+
+Start the online training session by running:
+python dialog_core_trainonline.py
 
 ## What’s in this project?
 
