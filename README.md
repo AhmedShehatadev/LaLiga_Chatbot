@@ -28,7 +28,7 @@ If you haven’t installed Rasa NLU and Rasa Core yet,
 ```
 pip install -r requirements.txt
 `''
-##Starting the online training session:
+## **** Starting the online training session ****:
 The process of running the online session is very similar to training the Rasa Core model:
 
 Make sure the custom actions server is running:
@@ -100,7 +100,7 @@ from bs4 import BeautifulSoup
 
 - **endpoints.yml** file contains the webhook configuration for custom action.
 
-## How to use this La-Liga bot?  --Please use be patient and install whatever packages your environemts ask for as currentlt i update the requirement package 
+## How to use this La-Liga bot? 
 1. You can train the Rasa NLU model by running:  
 ```make train-nlu```  
 This will train the Rasa NLU model and store it inside the `/models/current/nlu` folder of your project directory.
