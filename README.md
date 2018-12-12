@@ -1,6 +1,6 @@
 
-~~~~This Repositories is not meant for public professional use -- It lack exception handling and clean code only test rasa as framework  
-# Sports LaLiga_Chatbot
+# Sports LaLiga_Chatbot  
+This Repositories is not meant for public professional use -- It lack exception handling and clean code only test rasa as framework  
 ﻿# Rasa Stack starter-pack
 
 Looked through the [Rasa NLU](http://rasa.com/docs/nlu/) and [Rasa Core](http://rasa.com/docs/core/) documentation and ready to build your first intelligent assistant? We have some resources to help you get started! This repository contains the foundations of your first custom assistant. This starter-pack is also accompanied by a step-by-step video tutorial, which you can find [here](https://youtu.be/lQZ_x0LRUbI). 
