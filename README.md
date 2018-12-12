@@ -1,3 +1,5 @@
+
+~~~~This Repositories is not meant for public professional use -- It lack exception handling and clean code only test rasa as framework  
 # Sports LaLiga_Chatbot
 ﻿# Rasa Stack starter-pack
 
